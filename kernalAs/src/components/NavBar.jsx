@@ -29,7 +29,7 @@ const NavBar = () => {
                         <Link to={"/dash"} className='text-white p-2'>Dashboard</Link>
                     </div>
                     <div>
-                        <Link to={"/pricing"} className='text-white p-2'>Pricing</Link>
+                        <Link  to={"/pricing"} className='text-white p-2'>Pricing</Link>
                     </div>
                     <div>
                         <Link to={"/contactus"} className='text-white p-2'>Contact Us</Link>
